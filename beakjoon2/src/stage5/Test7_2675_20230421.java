@@ -3,7 +3,7 @@ package stage5;
 import java.io.*;
 import java.util.*;
 
-public class Test7_20230421 {
+public class Test7_2675_20230421 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb=new StringBuilder();
