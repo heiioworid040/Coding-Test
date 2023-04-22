@@ -34,3 +34,9 @@ public class Test9_2908_20230422 {
 		br.close();
 	}
 }
+
+//BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+//StringTokenizer st = new StringTokenizer(br.readLine()," ");
+//int A = Integer.parseInt(new StringBuilder(st.nextToken()).reverse().toString());
+//int B = Integer.parseInt(new StringBuilder(st.nextToken()).reverse().toString());
+//System.out.print(A > B ? A:B);
