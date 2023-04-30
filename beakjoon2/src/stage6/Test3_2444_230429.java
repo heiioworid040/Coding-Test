@@ -2,7 +2,7 @@ package stage6;
 
 import java.io.*;
 
-public class Test8_2444_230429 {
+public class Test3_2444_230429 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		int n=Integer.parseInt(br.readLine());
