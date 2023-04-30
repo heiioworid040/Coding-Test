@@ -3,7 +3,7 @@ package stage6;
 import java.io.*;
 import java.util.*;
 
-public class Test7_3003_230427 {
+public class Test2_3003_230427 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st=new StringTokenizer(br.readLine()," ");
