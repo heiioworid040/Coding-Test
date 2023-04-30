@@ -1,6 +1,6 @@
 package stage6;
 
-public class Test6_25083_230426 {
+public class Test1_25083_230426 {
 	public static void main(String[] args) {
 		StringBuilder sb=new StringBuilder();
 		sb.append("         ,r'\"7"+"\n");
