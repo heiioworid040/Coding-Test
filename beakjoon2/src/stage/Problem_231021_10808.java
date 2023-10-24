@@ -2,7 +2,7 @@ package stage;
 
 import java.io.*;
 
-public class Problem_231021_11721 {
+public class Problem_231021_10808 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
