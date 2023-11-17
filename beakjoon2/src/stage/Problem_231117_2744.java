@@ -10,7 +10,7 @@ public class Problem_231117_2744 {
 		System.out.println(changeWord);
     }
 	
-	// 대문자는 소문자, 소문자는 대문자로 변환하는 메서드
+	// 대문자->소문자, 소문자->대문자 변환 메서드
 	public static String reverseCase(String word) {
 		StringBuilder changeWord = new StringBuilder(word.length());
 		for(int i = 0; i < word.length(); i++) {
